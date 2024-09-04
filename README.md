@@ -20,10 +20,10 @@ Please have a look at [Detailed Requirements](#detailed-requirements) below for 
 
 We use the following technologies at Asurint and would prefer solutions built using a similar tech stack:
 
-- Kotlin (or Java)
-- Spring Boot
-- GraphQL (or REST)
-- JPA/Hibernate
+- C#
+- .NET
+- REST
+- EF Core
 - React
 
 That being said, only use the technologies you are already familiar with and in which you will produce the best solution -
