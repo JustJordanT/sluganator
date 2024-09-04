@@ -1,6 +1,4 @@
-# sluganator
-
-# Asurint Software Engineer Exercise
+# sluganator - Software Engineer Exercise
 
 ## Overview
 
